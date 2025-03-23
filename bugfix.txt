@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Perbaikan validasi input pada login - Versi Fix Branch
+=======
+Perbaikan validasi input pada login - Versi Master
+>>>>>>> master
