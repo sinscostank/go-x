@@ -1,2 +1,3 @@
 Fitur autentikasi pengguna
 Menambahkan validasi email
+Menambahkan validasi password (minimal 8 karakter)
