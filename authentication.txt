@@ -2,3 +2,4 @@ Fitur autentikasi pengguna
 Menambahkan validasi email
 Menambahkan validasi password (minimal 8 karakter)
 Menambahkan fitur logout pengguna
+Menambahkan enkripsi password sebelum disimpan
