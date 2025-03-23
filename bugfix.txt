@@ -1,1 +1,2 @@
 Perbaikan validasi input pada login
+Memperbaiki bug: form login tidak bisa dikirim jika email kosong
